@@ -12,4 +12,4 @@ Bem-vindo ao AluraFlix, um projeto desenvolvido como parte do desafio final do c
 
 #### Acesse a página web:
 
-- Acesse o AluraFlix clicando [aqui ]().
+- Acesse o AluraFlix clicando [aqui ](https://aluraflix-five-fawn.vercel.app/).
