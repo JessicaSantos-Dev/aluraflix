@@ -1,0 +1,17 @@
+.texto {
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: 700;
+  width: 412px;
+  height: 70px;
+  border-radius: 15px;
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #f5f5f5;
+  text-align: center;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
