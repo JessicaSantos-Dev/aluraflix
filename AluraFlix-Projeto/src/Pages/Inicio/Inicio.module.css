@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 10px 30px;
+  width: 100%;
+}
+
+.front {
+  background-color: #6bd1ff;
+}
+
+.back {
+  background-color: #00c86f;
+}
+
+.mobile {
+  background-color: #ffba05;
+}
+
+.frontCard {
+  border: 2px solid #006ab6;
+}
+
+.backCard {
+  border: 2px solid #007b3c;
+}
+
+.mobileCard {
+  border: 2px solid #ff8a00;
+}
